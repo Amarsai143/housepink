@@ -29,23 +29,23 @@ header {
 
 .nav-bar a {
   text-decoration: none;
-  color: white;
+  color: #b1fc03;
 }
 
 .more {
-  color: white;
+  color: #b1fc03;
 }
 
 .rent {
   background-image: url(../images/night-bg.jpg);
   background-position: center;
-  color: #d4d4d4;
+  color: #b1fc03;
   padding: 0 0 2rem 0;
 }
 
 .note {
   text-align: center;
-  color: white;
+  color: #b1fc03;
   padding: 20px;
   font-size: 20px;
   font-weight: 500;
@@ -98,7 +98,7 @@ header {
 }
 
 .lekk {
-  display: flex;
+  display: #b1fc03;
   justify-items: center;
   align-items: center;
 }
